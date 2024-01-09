@@ -1,0 +1,1164 @@
+{
+  "canciones": [
+    {
+      "nombre": "AFTER YOU",
+      "indice": 1
+    },
+    {
+      "nombre": "MAKIN' WHOOPEE",
+      "indice": 186
+    },
+    {
+      "nombre": "AFTER YOU'VE GONE",
+      "indice": 2
+    },
+    {
+      "nombre": "MANDALA",
+      "indice": 188
+    },
+    {
+      "nombre": "AIN'T MISBEHAVIN'",
+      "indice": 3
+    },
+    {
+      "nombre": "MANHATTAN",
+      "indice": 189
+    },
+    {
+      "nombre": "ALANJUNEALLY",
+      "indice": 6
+    },
+    {
+      "nombre": "MATRIX",
+      "indice": 190
+    },
+    {
+      "nombre": "ALL OR NOTHING AT ALL",
+      "indice": 4
+    },
+    {
+      "nombre": "MAYREH",
+      "indice": 191
+    },
+    {
+      "nombre": "ALONG CAME BETTY",
+      "indice": 7
+    },
+    {
+      "nombre": "MEANING OF THE BLUES, THE",
+      "indice": 192
+    },
+    {
+      "nombre": "ALWAYS AND FOREVER",
+      "indice": 8
+    },
+    {
+      "nombre": "MI BOJ A SAMBA",
+      "indice": 194
+    },
+    {
+      "nombre": "ANGELA",
+      "indice": 9
+    },
+    {
+      "nombre": "MIDNIGHT SUN",
+      "indice": 196
+    },
+    {
+      "nombre": "ARMANDO'S RHUMBA",
+      "indice": 10
+    },
+    {
+      "nombre": "MILESTONES",
+      "indice": 193
+    },
+    {
+      "nombre": "AUTUMN IN 3",
+      "indice": 12
+    },
+    {
+      "nombre": "MOMENT TO MOMENT",
+      "indice": 198
+    },
+    {
+      "nombre": "AUTUMN NOCTURNE",
+      "indice": 13
+    },
+    {
+      "nombre": "MONSTER & THE FLOWER, THE",
+      "indice": 200
+    },
+    {
+      "nombre": "AVALON PLACE",
+      "indice": 14
+    },
+    {
+      "nombre": "MOON AND SAND",
+      "indice": 202
+    },
+    {
+      "nombre": "MOONLIGHT IN VERMONT",
+      "indice": 199
+    },
+    {
+      "nombre": "MOUNTAIN GREENERY",
+      "indice": 204
+    },
+    {
+      "nombre": "BALLAD FOR ANITA",
+      "indice": 15
+    },
+    {
+      "nombre": "MUEZZIN'",
+      "indice": 205
+    },
+    {
+      "nombre": "BALLAD FOR TRANE",
+      "indice": 16
+    },
+    {
+      "nombre": "MY HEART STOLL STILL",
+      "indice": 208
+    },
+    {
+      "nombre": "BE MY LOVE",
+      "indice": 18
+    },
+    {
+      "nombre": "BEAUTIFUL FRIENDSHIP",
+      "indice": 17
+    },
+    {
+      "nombre": "BERNIE'S TUNE",
+      "indice": 24
+    },
+    {
+      "nombre": "BESIDE MYSELF",
+      "indice": 20
+    },
+    {
+      "nombre": "NEAL'S BLUES",
+      "indice": 209
+    },
+    {
+      "nombre": "BESS, YOU IS MY WOMAN NOW",
+      "indice": 22
+    },
+    {
+      "nombre": "NEVER LET ME GO",
+      "indice": 210
+    },
+    {
+      "nombre": "BEST THING FOR YOU IS ME",
+      "indice": 25
+    },
+    {
+      "nombre": "NICE'N EASY",
+      "indice": 211
+    },
+    {
+      "nombre": "BETTER GIT IN YOUR SOUL",
+      "indice": 26
+    },
+    {
+      "nombre": "NIGHT WE CALLED IT A DAY, THE",
+      "indice": 212
+    },
+    {
+      "nombre": "BEYOND THE BLUEBIRD",
+      "indice": 27
+    },
+    {
+      "nombre": "NNIGHTINGALE SANG IN BERKELEY SQUARE, A",
+      "indice": 213
+    },
+    {
+      "nombre": "BLUE DANIEL",
+      "indice": 28
+    },
+    {
+      "nombre": "NOBODY ELSE BUT ME",
+      "indice": 214
+    },
+    {
+      "nombre": "BLUEBIRD",
+      "indice": 29
+    },
+    {
+      "nombre": "NOW THE BEATS THE DRUM-NOW HE STOPS",
+      "indice": 215
+    },
+    {
+      "nombre": "BLUES BACKSTAGE",
+      "indice": 30
+    },
+    {
+      "nombre": "NOW HE SINGS, NOW HE SOBS",
+      "indice": 216
+    },
+    {
+      "nombre": "BOLIVIA",
+      "indice": 31
+    },
+    {
+      "nombre": "NUMBER 6",
+      "indice": 217
+    },
+    {
+      "nombre": "BOP BOY",
+      "indice": 34
+    },
+    {
+      "nombre": "BOP SHOP",
+      "indice": 32
+    },
+    {
+      "nombre": "BORN TO BE BLUE",
+      "indice": 35
+    },
+    {
+      "nombre": "OLD FOLKS",
+      "indice": 218
+    },
+    {
+      "nombre": "BOSSA ROKKA",
+      "indice": 36
+    },
+    {
+      "nombre": "ON A CLEAR DAY",
+      "indice": 219
+    },
+    {
+      "nombre": "BOY NEXT DOOR, THE",
+      "indice": 37
+    },
+    {
+      "nombre": "ON THE SLY",
+      "indice": 220
+    },
+    {
+      "nombre": "BUD POWELL",
+      "indice": 38
+    },
+    {
+      "nombre": "ON THE STREET WHERE YOU LIVE",
+      "indice": 222
+    },
+    {
+      "nombre": "BUD'S BLUES",
+      "indice": 40
+    },
+    {
+      "nombre": "ONLY YOU KNOW",
+      "indice": 224
+    },
+    {
+      "nombre": "BUSCH-WACKED",
+      "indice": 41
+    },
+    {
+      "nombre": "OUR DELIGHT",
+      "indice": 228
+    },
+    {
+      "nombre": "BUZZY",
+      "indice": 42
+    },
+    {
+      "nombre": "OUT OF THIS WORLD",
+      "indice": 226
+    },
+    {
+      "nombre": "BY MYSELF",
+      "indice": 43
+    },
+    {
+      "nombre": "OVER THE RAINBOW",
+      "indice": 229
+    },
+    {
+      "nombre": "BYE BYE BABY",
+      "indice": 44
+    },
+    {
+      "nombre": "OW !",
+      "indice": 230
+    },
+    {
+      "nombre": "CAREFUL",
+      "indice": 45
+    },
+    {
+      "nombre": "PANHANDLE HOOK",
+      "indice": 232
+    },
+    {
+      "nombre": "CELIA",
+      "indice": 46
+    },
+    {
+      "nombre": "PARTY'S OVER, THE",
+      "indice": 231
+    },
+    {
+      "nombre": "CERTAIN SMILE, A",
+      "indice": 48
+    },
+    {
+      "nombre": "PASSPORT",
+      "indice": 234
+    },
+    {
+      "nombre": "CHARIOTS",
+      "indice": 49
+    },
+    {
+      "nombre": "PATZ BLUES",
+      "indice": 235
+    },
+    {
+      "nombre": "CHEEK TO CHEEK",
+      "indice": 50
+    },
+    {
+      "nombre": "PEOPLE",
+      "indice": 236
+    },
+    {
+      "nombre": "CHERYL",
+      "indice": 53
+    },
+    {
+      "nombre": "PERHAPS",
+      "indice": 238
+    },
+    {
+      "nombre": "CLOSE ENOUGH FOR LOVE",
+      "indice": 54
+    },
+    {
+      "nombre": "PICADILLY LILLY",
+      "indice": 239
+    },
+    {
+      "nombre": "COMPENSATION",
+      "indice": 55
+    },
+    {
+      "nombre": "POINCIANA",
+      "indice": 240
+    },
+    {
+      "nombre": "COOL EYES",
+      "indice": 56
+    },
+    {
+      "nombre": "POINT OF RETURN",
+      "indice": 241
+    },
+    {
+      "nombre": "CRY ME A RIVER",
+      "indice": 58
+    },
+    {
+      "nombre": "POOR BUTTERFLY",
+      "indice": 242
+    },
+    {
+      "nombre": "PRETTY GIRL IS LIKE A MELODY, A",
+      "indice": 243
+    },
+    {
+      "nombre": "PRISM",
+      "indice": 244
+    },
+    {
+      "nombre": "DACAPOLYPSO",
+      "indice": 60
+    },
+    {
+      "nombre": "PURE IMAGINATION",
+      "indice": 245
+    },
+    {
+      "nombre": "DAY DREAM",
+      "indice": 59
+    },
+    {
+      "nombre": "DAY IN, DAY OUT",
+      "indice": 62
+    },
+    {
+      "nombre": "DIG",
+      "indice": 64
+    },
+    {
+      "nombre": "RAHSAAN'N RUN",
+      "indice": 246
+    },
+    {
+      "nombre": "DON'T ASK WHY",
+      "indice": 66
+    },
+    {
+      "nombre": "RE-RE",
+      "indice": 247
+    },
+    {
+      "nombre": "DON'T EVER GO AWAY",
+      "indice": 67
+    },
+    {
+      "nombre": "RE; PERSON I KNEW",
+      "indice": 248
+    },
+    {
+      "nombre": "DON'T LOOK BACK",
+      "indice": 68
+    },
+    {
+      "nombre": "RELAXIN' AT CAMARILLO",
+      "indice": 249
+    },
+    {
+      "nombre": "DOUBLE CLUTCHING",
+      "indice": 70
+    },
+    {
+      "nombre": "ROOM 608",
+      "indice": 252
+    },
+    {
+      "nombre": "DREAM DANCING",
+      "indice": 71
+    },
+    {
+      "nombre": "ROSEWOOD",
+      "indice": 250
+    },
+    {
+      "nombre": "EAST OF THE SUN",
+      "indice": 72
+    },
+    {
+      "nombre": "SAINT THOMAS",
+      "indice": 253
+    },
+    {
+      "nombre": "EMANON",
+      "indice": 73
+    },
+    {
+      "nombre": "SAMBA DE ORFEU",
+      "indice": 254
+    },
+    {
+      "nombre": "EMILY",
+      "indice": 74
+    },
+    {
+      "nombre": "SAMBACIDE",
+      "indice": 258
+    },
+    {
+      "nombre": "END OF A LOVE AFFAIR, THE",
+      "indice": 75
+    },
+    {
+      "nombre": "SANTURCE",
+      "indice": 256
+    },
+    {
+      "nombre": "ENDLESSLY",
+      "indice": 76
+    },
+    {
+      "nombre": "SEABROOK REVISITED",
+      "indice": 259
+    },
+    {
+      "nombre": "ESTATE",
+      "indice": 78
+    },
+    {
+      "nombre": "SECRET LOVE",
+      "indice": 260
+    },
+    {
+      "nombre": "ETERNAL TRIANGLE",
+      "indice": 79
+    },
+    {
+      "nombre": "SEEMS TO ME",
+      "indice": 262
+    },
+    {
+      "nombre": "EV'RY TIME WE SAY GOOD BYE",
+      "indice": 80
+    },
+    {
+      "nombre": "SERPENT'S TOOTH",
+      "indice": 263
+    },
+    {
+      "nombre": "EVERYTHING HAPPENS TO ME",
+      "indice": 82
+    },
+    {
+      "nombre": "SHAW NUFF",
+      "indice": 264
+    },
+    {
+      "nombre": "EVERYTHING I LOVE",
+      "indice": 83
+    },
+    {
+      "nombre": "SISTER SADIE",
+      "indice": 266
+    },
+    {
+      "nombre": "SKYLARK",
+      "indice": 267
+    },
+    {
+      "nombre": "SLEEPIN' BEE, A",
+      "indice": 268
+    },
+    {
+      "nombre": "FATHER",
+      "indice": 84
+    },
+    {
+      "nombre": "SO IN LOVE",
+      "indice": 270
+    },
+    {
+      "nombre": "FAVELA",
+      "indice": 85
+    },
+    {
+      "nombre": "SOME NERVE",
+      "indice": 272
+    },
+    {
+      "nombre": "FELL LIKE MAKIN' LOVE",
+      "indice": 86
+    },
+    {
+      "nombre": "SOMETHING FROM EVERYONE",
+      "indice": 273
+    },
+    {
+      "nombre": "FOR HEAVEN'S SAKE",
+      "indice": 87
+    },
+    {
+      "nombre": "SONG FOR SISIPHUS",
+      "indice": 274
+    },
+    {
+      "nombre": "FREIGHT TRANE",
+      "indice": 88
+    },
+    {
+      "nombre": "SONNYMOON FOR TWO",
+      "indice": 276
+    },
+    {
+      "nombre": "FRENCH WALTZ",
+      "indice": 89
+    },
+    {
+      "nombre": "SOON",
+      "indice": 277
+    },
+    {
+      "nombre": "FRIDAY THE 13TH",
+      "indice": 90
+    },
+    {
+      "nombre": "SPIRIT SAMBA",
+      "indice": 278
+    },
+    {
+      "nombre": "FROM NOW ON",
+      "indice": 91
+    },
+    {
+      "nombre": "SPRING CAN REALLY HANG YOU UP THE MOST",
+      "indice": 280
+    },
+    {
+      "nombre": "FROM THE HEART",
+      "indice": 92
+    },
+    {
+      "nombre": "SQUIRREL",
+      "indice": 282
+    },
+    {
+      "nombre": "FROM THIS MOMENT ON",
+      "indice": 94
+    },
+    {
+      "nombre": "STABLEMATES",
+      "indice": 283
+    },
+    {
+      "nombre": "FULL MOON AND EMPTY ARMS",
+      "indice": 95
+    },
+    {
+      "nombre": "STAR EYES",
+      "indice": 284
+    },
+    {
+      "nombre": "FUNKARELLO",
+      "indice": 96
+    },
+    {
+      "nombre": "STARS FELL ON ALABAMA",
+      "indice": 285
+    },
+    {
+      "nombre": "STEEPLE CHASE",
+      "indice": 286
+    },
+    {
+      "nombre": "STORMY WEATHER",
+      "indice": 287
+    },
+    {
+      "nombre": "GAVIOTA",
+      "indice": 98
+    },
+    {
+      "nombre": "STREET OF DREAMS",
+      "indice": 288
+    },
+    {
+      "nombre": "GNU BLU",
+      "indice": 97
+    },
+    {
+      "nombre": "SUNNY",
+      "indice": 289
+    },
+    {
+      "nombre": "GODCHILD",
+      "indice": 100
+    },
+    {
+      "nombre": "SUNNY SIDE OF THE STREET",
+      "indice": 290
+    },
+    {
+      "nombre": "GONR WITH THE WIND",
+      "indice": 101
+    },
+    {
+      "nombre": "SWEET LORRAINE",
+      "indice": 291
+    },
+    {
+      "nombre": "GOODBYE",
+      "indice": 102
+    },
+    {
+      "nombre": "SWING DENTZ SWING",
+      "indice": 292
+    },
+    {
+      "nombre": "GOT A MATCH ?",
+      "indice": 103
+    },
+    {
+      "nombre": "SWING SHIFT",
+      "indice": 294
+    },
+    {
+      "nombre": "SY CLONE",
+      "indice": 295
+    },
+    {
+      "nombre": "H & H",
+      "indice": 112
+    },
+    {
+      "nombre": "HARLEM NOCTURNE",
+      "indice": 104
+    },
+    {
+      "nombre": "T.J.R.C",
+      "indice": 296
+    },
+    {
+      "nombre": "HEART SONG",
+      "indice": 106
+    },
+    {
+      "nombre": "TEA FOR TWO",
+      "indice": 298
+    },
+    {
+      "nombre": "HIGH HOPES",
+      "indice": 108
+    },
+    {
+      "nombre": "TEACH ME TONIGHT",
+      "indice": 297
+    },
+    {
+      "nombre": "HIGH WIRE THE AERIALIST",
+      "indice": 110
+    },
+    {
+      "nombre": "THAT OLD FEELING",
+      "indice": 300
+    },
+    {
+      "nombre": "HOT HOUSE",
+      "indice": 113
+    },
+    {
+      "nombre": "THAT'S ALL",
+      "indice": 301
+    },
+    {
+      "nombre": "HOW ABOUT YOU",
+      "indice": 114
+    },
+    {
+      "nombre": "THEME FROM MAXIME",
+      "indice": 302
+    },
+    {
+      "nombre": "HOW DEEP IS THE OCEAN",
+      "indice": 115
+    },
+    {
+      "nombre": "THEN I'LL BE TIRED OF YOU",
+      "indice": 303
+    },
+    {
+      "nombre": "HOW LONG HAS THIS BEEN GOING ON",
+      "indice": 116
+    },
+    {
+      "nombre": "THERE GOES MY HEART",
+      "indice": 304
+    },
+    {
+      "nombre": "THEY SAY ITS WONDERFUL",
+      "indice": 306
+    },
+    {
+      "nombre": "THEIR'S TEARS",
+      "indice": 307
+    },
+    {
+      "nombre": "I CONCENTRATE ON YOU",
+      "indice": 118
+    },
+    {
+      "nombre": "THINGS AIN'T WHAT THEY USED TO BE",
+      "indice": 308
+    },
+    {
+      "nombre": "I DIDN'T KNOW WHAT TIME IT WAS",
+      "indice": 117
+    },
+    {
+      "nombre": "THIS CAN'T BE LOVE",
+      "indice": 309
+    },
+    {
+      "nombre": "I FALL IN LAVE TOO EASILY",
+      "indice": 120
+    },
+    {
+      "nombre": "THREE AND ONE",
+      "indice": 310
+    },
+    {
+      "nombre": "I LEFT MY HEART IN SAN FRANCISCO",
+      "indice": 121
+    },
+    {
+      "nombre": "THRILL IS GONE, THE",
+      "indice": 311
+    },
+    {
+      "nombre": "I LOVE YOU PORGY",
+      "indice": 128
+    },
+    {
+      "nombre": "THYME'S TIME",
+      "indice": 312
+    },
+    {
+      "nombre": "I NEED YOU HERE",
+      "indice": 122
+    },
+    {
+      "nombre": "TIDAL BREEZE",
+      "indice": 314
+    },
+    {
+      "nombre": "I WISH YOU LOVE",
+      "indice": 124
+    },
+    {
+      "nombre": "TIME FOR LOVE, A",
+      "indice": 315
+    },
+    {
+      "nombre": "I'LL BE AROUND",
+      "indice": 126
+    },
+    {
+      "nombre": "TIME WAS",
+      "indice": 318
+    },
+    {
+      "nombre": "I'LL BE SEEING YOU",
+      "indice": 129
+    },
+    {
+      "nombre": "TIME LIE",
+      "indice": 316
+    },
+    {
+      "nombre": "I'LL CLOSE MY EYES",
+      "indice": 130
+    },
+    {
+      "nombre": "TINY CAPERS",
+      "indice": 319
+    },
+    {
+      "nombre": "I'LL TAKE ROMANCE",
+      "indice": 131
+    },
+    {
+      "nombre": "TIS'",
+      "indice": 320
+    },
+    {
+      "nombre": "I'M GLAD  THERE IS YOU",
+      "indice": 132
+    },
+    {
+      "nombre": "TO KILL A BRICK",
+      "indice": 321
+    },
+    {
+      "nombre": "I'M OLD FASCHIONED",
+      "indice": 133
+    },
+    {
+      "nombre": "TOO CLOSE FOR COMFORT",
+      "indice": 322
+    },
+    {
+      "nombre": "I'M THROUGH WITH LOVE",
+      "indice": 134
+    },
+    {
+      "nombre": "TOO MARVELOUS FOR WORDS",
+      "indice": 323
+    },
+    {
+      "nombre": "I'VE GOT A CRUSCH ON YOU",
+      "indice": 135
+    },
+    {
+      "nombre": "TOOCH OF YOUR LIPS, THE",
+      "indice": 324
+    },
+    {
+      "nombre": "I'VE GOT THE WORLD ON A STRING",
+      "indice": 136
+    },
+    {
+      "nombre": "TRICROTISM",
+      "indice": 325
+    },
+    {
+      "nombre": "I'VE GOT YOU UNDER MY SKIN",
+      "indice": 138
+    },
+    {
+      "nombre": "TUNE 88",
+      "indice": 326
+    },
+    {
+      "nombre": "I'VE GROWN ACCUSTOMED TO YOUR FACE",
+      "indice": 140
+    },
+    {
+      "nombre": "I'VE NEVER BEEN IN LOVE BEFORE",
+      "indice": 141
+    },
+    {
+      "nombre": "I'LL WIND",
+      "indice": 142
+    },
+    {
+      "nombre": "UN POCO-LOCO",
+      "indice": 327
+    },
+    {
+      "nombre": "IN A CAPRICORNIAN WAY",
+      "indice": 143
+    },
+    {
+      "nombre": "UNFORGETTABLE",
+      "indice": 389
+    },
+    {
+      "nombre": "IN HER FAMILY",
+      "indice": 144
+    },
+    {
+      "nombre": "IN LOVE IN VAIN",
+      "indice": 145
+    },
+    {
+      "nombre": "IN THE DAYS OF OUR LOVE",
+      "indice": 146
+    },
+    {
+      "nombre": "VERY THOUGHT OF YOU, THE",
+      "indice": 329
+    },
+    {
+      "nombre": "INDIAN SUMMER",
+      "indice": 148
+    },
+    {
+      "nombre": "VIOLETS FOR YOUR FURS",
+      "indice": 330
+    },
+    {
+      "nombre": "IRY'S AT MIDNIGHT",
+      "indice": 150
+    },
+    {
+      "nombre": "ISFAHAN",
+      "indice": 150
+    },
+    {
+      "nombre": "IT NEVER ENTERED MY MIND",
+      "indice": 151
+    },
+    {
+      "nombre": "WAIL",
+      "indice": 331
+    },
+    {
+      "nombre": "IT'S ALL RIGHT WITH ME",
+      "indice": 152
+    },
+    {
+      "nombre": "WALL-EYE BLUES",
+      "indice": 332
+    },
+    {
+      "nombre": "IT'S YOU OR NO ONE",
+      "indice": 154
+    },
+    {
+      "nombre": "WATCH WHAT HAPPENS",
+      "indice": 333
+    },
+    {
+      "nombre": "WATERMELON MAN",
+      "indice": 334
+    },
+    {
+      "nombre": "WES SIDE STROLL",
+      "indice": 336
+    },
+    {
+      "nombre": "JAPANESE WALTZ, A",
+      "indice": 155
+    },
+    {
+      "nombre": "WHAT A DIFFERENCE A DAY MADE",
+      "indice": 335
+    },
+    {
+      "nombre": "JERSEY BOUNCE",
+      "indice": 156
+    },
+    {
+      "nombre": "WHAT KIND OF FOOL AM I",
+      "indice": 338
+    },
+    {
+      "nombre": "JITTERBUG WALTZ",
+      "indice": 158
+    },
+    {
+      "nombre": "WHEN THE SUN COMES OUT",
+      "indice": 339
+    },
+    {
+      "nombre": "JIVE SAMBA",
+      "indice": 157
+    },
+    {
+      "nombre": "WHEN YOUR LOVER HAS GONE",
+      "indice": 340
+    },
+    {
+      "nombre": "JULIAN",
+      "indice": 162
+    },
+    {
+      "nombre": "WHERE OR WHEN",
+      "indice": 341
+    },
+    {
+      "nombre": "JUST ONE OF THOSE THINGS",
+      "indice": 160
+    },
+    {
+      "nombre": "WHILE WE'RE YOUNG",
+      "indice": 342
+    },
+    {
+      "nombre": "JUST SQUEEZE ME",
+      "indice": 163
+    },
+    {
+      "nombre": "WHO CAN I TURN TO",
+      "indice": 343
+    },
+    {
+      "nombre": "WHY DID I CHOOSE YOU",
+      "indice": 344
+    },
+    {
+      "nombre": "WILL YOU STILL BE MINE",
+      "indice": 345
+    },
+    {
+      "nombre": "LADIES IN MERCEDES",
+      "indice": 164
+    },
+    {
+      "nombre": "WITHCRAFT",
+      "indice": 346
+    },
+    {
+      "nombre": "LADY IS A TRAMP, THE",
+      "indice": 166
+    },
+    {
+      "nombre": "WITH EVERY BREATH I TAKE",
+      "indice": 347
+    },
+    {
+      "nombre": "LAZY AFTERNOON",
+      "indice": 167
+    },
+    {
+      "nombre": "WRAP YOUR TROUBLES IN DREAMS",
+      "indice": 348
+    },
+    {
+      "nombre": "LEAP OF FAITH",
+      "indice": 168
+    },
+    {
+      "nombre": "LI'L DARLIN'",
+      "indice": 169
+    },
+    {
+      "nombre": "LINE FOR LYONS",
+      "indice": 170
+    },
+    {
+      "nombre": "YOU & THE NIGHT & THE MUSIC",
+      "indice": 349
+    },
+    {
+      "nombre": "LITTLE FACE",
+      "indice": 172
+    },
+    {
+      "nombre": "YOU DO SOMETHING TO ME",
+      "indice": 350
+    },
+    {
+      "nombre": "LITTLE GIRL BLUE",
+      "indice": 174
+    },
+    {
+      "nombre": "YOU GO TO MY HEAD",
+      "indice": 352
+    },
+    {
+      "nombre": "LITTLE WILLIE LEAPS",
+      "indice": 171
+    },
+    {
+      "nombre": "YOU MAKE ME FEEL SO YOUNG",
+      "indice": 351
+    },
+    {
+      "nombre": "LONG VIEW, THE",
+      "indice": 176
+    },
+    {
+      "nombre": "YOU MUST BELIEVE IN SPRING",
+      "indice": 354
+    },
+    {
+      "nombre": "LOOP, THE",
+      "indice": 178
+    },
+    {
+      "nombre": "YOU'RE EVERATHING",
+      "indice": 356
+    },
+    {
+      "nombre": "LOTUS ON IRISH STREAMS, A",
+      "indice": 179
+    },
+    {
+      "nombre": "YOU'VE CHANGED",
+      "indice": 355
+    },
+    {
+      "nombre": "LOUD-ZEE",
+      "indice": 180
+    },
+    {
+      "nombre": "YOUNGER THAN SPRINGTIME",
+      "indice": 358
+    },
+    {
+      "nombre": "LOVE WALKED IN",
+      "indice": 182
+    },
+    {
+      "nombre": "YOURS IS MY HEART ALONE",
+      "indice": 359
+    },
+    {
+      "nombre": "LOVERS RAIN DANCE",
+      "indice": 181
+    },
+    {
+      "nombre": "LULLABY OF THE LEAVES",
+      "indice": 184
+    },
+    {
+      "nombre": "LULU'S BACK IN TOWN",
+      "indice": 185
+    }
+  ]
+}
